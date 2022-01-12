@@ -6,7 +6,7 @@ Actually, I’m diving in NodeJs Api Rest RestFull and honestly, it seems to be 
 
 📫 You can find me here: rodolfo0ti@gmail.com
 
-### Contatos:
+### Contact:
 
 <div>
 
