@@ -17,8 +17,8 @@ Actually, I’m diving in NodeJs Api Rest RestFull and honestly, it seems to be 
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?lrodolfol&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?lrodolfol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrodolfol&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrodolfol&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <!---
