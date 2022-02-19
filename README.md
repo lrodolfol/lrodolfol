@@ -1,8 +1,9 @@
 👋 Hi! and welcome, I'm Rodolfo J.Silva and I'm system analyst and programmer
  
 <br />PHP has been my first love. 
-<br />I have experience in C# and VB.NET / MySql, FireBird, Sql Server / PSQL.
+<br />I have experience in PHP, C# and VB.NET / MySql, FireBird, Sql Server / PSQL.
 <br />Actually, I’m diving in NodeJs Api Rest RestFull and honestly, it seems to be my future 😄
+<br />I'm a system analyst at BTG PACTUAL. Working with financial market information
 
 📫 You can find me here: rodolfo0ti@gmail.com
 
