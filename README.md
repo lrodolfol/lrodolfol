@@ -1,4 +1,4 @@
-👋 Hi! and welcome, I'm Rodolfo J.Silva and I'm system analyst and programmer... and a FIFA Gamer 🎮
+👋 Hi! and welcome, I'm Rodolfo J.Silva and I'm system analyst and developer... and a FIFA Gamer 🎮
  
 <br />PHP has been my first love. 
 <br />I have experience in PHP, C# and VB.NET / MySql, FireBird, Sql Server / PSQL.
