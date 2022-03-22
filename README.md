@@ -6,7 +6,7 @@
 <br />I'm a system analyst at BTG PACTUAL. Working with financial market information
 
 <br /><br />
-🔧🔧Under construction: tinosnegorios.com.br 👨🏽‍💻
+🔧🔧Under construction: <a href="https://tinosnegorios.com.br>tinosnegorios.com.br </a> 👨🏽‍💻
 <br /><br />
 
 📫 You can find me here: rodolfo0ti@gmail.com
