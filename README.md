@@ -1,18 +1,17 @@
-👋 Hi! and welcome, I'm Rodolfo J.Silva and I'm system analyst and developer... and a FIFA Gamer 🎮
+👋 Hi! and welcome, I'm Rodolfo J.Silva and I'm system analyst and developer... and a FIFA Gamer 💻 🎮
  
 <br />PHP has been my first love. 
 <br />I have experience in PHP, C# and VB.NET / MySql, FireBird, Sql Server / PSQL.
-<br />Actually, I’m diving in NodeJs Api Rest RestFull and honestly, it seems to be my future 😄
-<br />I'm a system analyst at BTG PACTUAL. Working with financial market information
+<br />Agile methodology, Docker
+<br />Actually, I’m diving in NodeJs 😄
+<br />I'm a system analyst at BTG PACTUAL. Working with financial market information  👨🏽‍💻
 
 <br /><br />
-🔧🔧Under construction: https://tinosnegocios.com.br 👨🏽‍💻
+🔧🔧 Under construction: https://tinosnegocios.com.br 🔧🔧 
 <br /><br />
-
-📫 You can find me here: rodolfo0ti@gmail.com
 
 ### Contact:
-
+📫 You can find me here: rodolfo0ti@gmail.com
 <div>
 
 <a target="_blank" href="https://www.instagram.com/rohdolfu/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
