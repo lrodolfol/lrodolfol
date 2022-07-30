@@ -3,7 +3,7 @@
 <br />PHP has been my first love. 
 <br />I have experience in PHP, C# and VB.NET / MySql, FireBird, Sql Server / SQLServer.
 <br />Agile methodology, Docker
-<br />Actually, I’m diving in NodeJs 😄
+<br />Actually, I’m knowing NodeJs and diving in cloud AWS 😄
 <br />I'm a system analyst at BTG PACTUAL. Working with financial market information  👨🏽‍💻
 
 <br /><br />
