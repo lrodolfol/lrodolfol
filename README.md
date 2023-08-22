@@ -4,7 +4,7 @@
 <br />I have experience in PHP, C# and VB.NET / MySql, FireBird, Sql Server / SQLServer.
 <br />Agile methodology, Docker
 <br />Actually, I’m knowing Angular, NodeJs and diving in cloud AWS 😄
-<br />I'm a system analyst at BTG PACTUAL. Working with financial market information  👨🏽‍💻
+<br />I'm developer and system analyst at BTG PACTUAL. Working with financial market information  👨🏽‍💻
 
 <br /><br />
 🔧🔧 Under construction: https://tinosnegocios.com.br 🔧🔧 
