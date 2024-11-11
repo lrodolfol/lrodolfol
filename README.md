@@ -1,8 +1,7 @@
 👋 Hi! and welcome, I'm Rodolfo J.Silva and I'm system analyst and developer... and a FIFA Gamer 💻 🎮
  
-<br />PHP has been my first love. 
-<br />I have experience in PHP, C# and VB.NET / MySql, FireBird, Sql Server / SQLServer.
-<br />Agile methodology, Docker
+<br />I have experience in C#, VB.NET PHP / MySql, FireBird, Sql Server / SQLServer.
+<br />Some projects with Angular, VueJs
 <br />Actually, I’m knowing Angular and Java and diving in cloud AWS 😄
 <br />I'm developer and system analyst at BTG PACTUAL. Working with financial market information  👨🏽‍💻
 
